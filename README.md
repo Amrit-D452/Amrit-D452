@@ -61,7 +61,6 @@ drwxr-xr-x  SecureAI          threat-aware comms platform — an LLM reasons
 
 <div align="center">
 
-**languages & core**
 <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,flask,vscode,docker&theme=dark" alt="core skills" /></a>
 
 **security toolkit**

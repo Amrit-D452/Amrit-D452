@@ -73,9 +73,9 @@ drwxr-xr-x  SecureAI          threat-aware comms platform — an LLM reasons
 ### 🐍 `intrusion-visualizer` — feeding time
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="snake eats my contributions" src="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amrit-D452/Amrit-D452/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amrit-D452/Amrit-D452/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eats my contributions" src="https://raw.githubusercontent.com/Amrit-D452/Amrit-D452/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---

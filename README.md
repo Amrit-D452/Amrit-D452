@@ -13,7 +13,7 @@ amrit@sec-station:~$ ./init_profile.sh --stealth
 [OK] coffee reserves ......... CRITICAL ⚠
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=140&lines=Amrit.D+·+cybersecurity+undergrad+·+7th+sem;focus%3A+AI+%C3%97+SECURITY;building+systems+that+reason+about+the+attacker...;status%3A+always+learning+%E2%96%88" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=140&lines=Amrit.D+%C2%B7+cybersecurity+undergrad+%C2%B7+7th+sem;focus%3A+AI+%C3%97+SECURITY;building+systems+that+reason+about+the+attacker...;status%3A+always+learning+%E2%96%88" alt="typing" />
 
 <!-- terminal window end -->
 </div>
@@ -24,17 +24,22 @@ amrit@sec-station:~$ ./init_profile.sh --stealth
 
 <div align="center">
   <a href="https://github.com/Amrit-D452">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amrit-D452&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=8B949E&theme=chartreuse-dark" alt="stats" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrit-D452&theme=2074" alt="stats" />
   </a>
   &nbsp;
   <a href="https://github.com/Amrit-D452">
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-D452&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E&dates=8B949E" alt="streak" />
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-D452&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideLabels=8B949E&sideNums=8B949E&dates=8B949E" alt="streak" />
   </a>
   &nbsp;
   <a href="https://github.com/Amrit-D452">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-D452&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=8B949E&theme=chartreuse-dark" alt="langs" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amrit-D452&theme=2074" alt="langs" />
   </a>
 </div>
+
+<!-- when github-readme-stats recovers, swap back:
+<img src="https://github-readme-stats.vercel.app/api?username=Amrit-D452&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=8B949E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-D452&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=8B949E" />
+-->
 
 ---
 
